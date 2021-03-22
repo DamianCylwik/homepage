@@ -1,0 +1,28 @@
+body {
+  background: #fefefe;
+}
+
+section {
+  background: #ffffff;
+}
+
+.main-heading {
+  color: blue;
+}
+
+.secondary-heading {
+  color: #1460aa;
+}
+
+p {
+  color: #1d1285;
+}
+
+a {
+  color: red;
+}
+
+nav a {
+  color: green;
+}
+
